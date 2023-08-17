@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot test test config1 method 1`] = `
+{
+  "method": "GET",
+  "time": Any<Date>,
+  "url": "/api",
+}
+`;
