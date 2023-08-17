@@ -1,3 +1,3 @@
 # Jest Demo
 
-a repo about jest guide
+学习Jest框架的相关代码
