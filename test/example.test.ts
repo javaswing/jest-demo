@@ -2,7 +2,7 @@ test("test toBe matcher", () => {
   const a = { name: "javaswing" };
   // to be 使用进行比较 Object.is
   // @link https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Object/is
-  expect(a).toBe({ name: "javaswing" }); // fail
+  expect(a.name).toBe("javaswing"); // fail
 });
 
 test("test toEqual matcher", () => {
